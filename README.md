@@ -67,5 +67,5 @@ MIT License
 
 ### 🧠 Credits
 Built by Harshil Malhotra
-With support from the Intelligent Systems Design Lab, SRM IST.
+With support from the Intelligent Systems Design Lab, SRMIST.
 
